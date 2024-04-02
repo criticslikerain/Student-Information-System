@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcoMONRyS8VlhH0Z3CgV6brHzW0WafEG+IH/MfPtKjK+dk2qsPuFDoa4OZeKO/PdKJ7giY6/95VHKHvuahCpWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\Student information System\\Student information System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

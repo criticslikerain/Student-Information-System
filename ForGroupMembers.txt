@@ -1,0 +1,11 @@
+// FOR MY GROUP  MEMBERS -- e install sa daan ang mga dependecies or library nga naka provided below before executing sa code. // 
+----------------------------------------------------------------------------------------------------------------------------------
+
+// DEPENDENCIES 
+
+__________________________________________
+dotnet add package Newtonsoft.Json 
+dotnet add System.Speech
+
+
+___________________________________________

@@ -1,0 +1,19 @@
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\Student information System.exe
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\Student information System.deps.json
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\Student information System.runtimeconfig.json
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\Student information System.dll
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\Student information System.pdb
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\System.Speech.dll
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.AssemblyInfo.cs
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student .5351BF06.Up2Date
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.dll
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\refint\Student information System.dll
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.pdb
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\Student information System.genruntimeconfig.cache
+C:\Users\pc\Desktop\Student information System\obj\Debug\net8.0\ref\Student information System.dll
+C:\Users\pc\Desktop\Student information System\bin\Debug\net8.0\Newtonsoft.Json.dll

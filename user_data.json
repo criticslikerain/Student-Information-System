@@ -1,0 +1,36 @@
+[
+  {
+    "Username": "admin",
+    "Password": "password",
+    "Birthdate": "12/04/2004",
+    "Name": "nathaniel",
+    "Surname": "inocando",
+    "ContactNum": "09690446511",
+    "EmergencyContact": "09260566773",
+    "Address": "124 Catalino St. Looc Mandaue City",
+    "UserID": "000001",
+    "RegistrationDate": "3/28/2024",
+    "Gender": "Male",
+    "Religion": "Catholic",
+    "Nationality": "Filipino",
+    "GradeYear": "2nd Year College",
+    "EnrollmentStatus": "Active"
+  },
+  {
+    "Username": "user",
+    "Password": "123456",
+    "Birthdate": "3/28/2024",
+    "Name": "Group2",
+    "Surname": "Defense",
+    "ContactNum": "12345678901",
+    "EmergencyContact": "09876543211",
+    "Address": "A.S FORTUNATA BENEDICTO COLLEGE ",
+    "UserID": "000002",
+    "RegistrationDate": "3/28/2024 3:03:52 PM",
+    "Gender": "Others",
+    "Religion": "Others",
+    "Nationality": "Others",
+    "GradeYear": "Others",
+    "EnrollmentStatus": "Active"
+  }
+]
